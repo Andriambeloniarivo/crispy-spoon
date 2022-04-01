@@ -1,4 +1,4 @@
-const { arrayContain } = require('./3-array-contain');
+const { arrayContain } = require('./3-array-contain');    
 
 function generateUnorderedArray(size) {
   let array = [];
